@@ -6,5 +6,9 @@ This repository is for showing how Git and GitHub work.
 
 Sample website with plenty of files for demos
 
-### 
+### Amit Changes
 This is for testing purpose only. Hello testing
+
+More changes to be made
+
+
