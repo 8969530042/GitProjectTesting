@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- Copywrite for Amit !-->
+<head>
+<<<<<<< HEAD
+	<title>I am updating title from master</title>
+=======
+	<title>New website changes</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Updated changed from master
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Master company 2014</p>
+=======
+			Something changed
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Amit Anand Company 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
